@@ -1,0 +1,12 @@
+-- CREATE DATABASE users
+-- ALTER DATABASE learn_sql RENAME To sql_rename;
+-- CREATE DATABASE love_sign;
+
+-- CREATE Table
+-- users(
+--     user_id INT,
+--     first_name VARCHAR(20),
+--     last_name VARCHAR(20),
+--     email VARCHAR(20)
+-- )
+-- ALTER Table users RENAME to admins
